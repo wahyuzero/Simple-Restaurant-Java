@@ -1,1 +1,0 @@
-# Simple-Restaurant-Java
